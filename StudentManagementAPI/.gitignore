@@ -1,0 +1,30 @@
+# Build files
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets and credentials
+appsettings.Development.json
+secrets.json
+
+# NuGet
+packages/
+
+# Publish output
+publish/
